@@ -92,7 +92,7 @@
       <artifactId>jdom</artifactId>
       <version>1.0</version>
     </dependency>
-    
+
     <dependency>
       <groupId>com.alibaba.p3c</groupId>
       <artifactId>p3c-pmd</artifactId>

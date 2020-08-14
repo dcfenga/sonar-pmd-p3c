@@ -1,6 +1,6 @@
-基于Plugin [sonar-pmd-plugin](https://github.com/jensgerdes/sonar-pmd/tree/master)，添加对阿里p3c的支持。
+基于Plugin：[sonar-pmd-plugin](https://github.com/jensgerdes/sonar-pmd/tree/master) ，添加对阿里p3c的支持。
 
-SonarQube版本 7.7+，集成[p3c-pmd](https://github.com/alibaba/p3c/tree/master/p3c-pmd) 2.0.1。
+SonarQube版本 7.7+，集成[p3c-pmd](https://github.com/alibaba/p3c/tree/master/p3c-pmd) 2.0.1版本。
 
 # SonarQube PMD Plugin [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.sonarsource.pmd/sonar-pmd-plugin/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.sonarsource.pmd/sonar-pmd-plugin) [![Build Status](https://api.travis-ci.org/jensgerdes/sonar-pmd.svg?branch=master)](https://travis-ci.org/jensgerdes/sonar-pmd) [![SonarStatus](https://sonarcloud.io/api/project_badges/measure?project=org.sonarsource.pmd%3Asonar-pmd-plugin&metric=alert_status)](https://sonarcloud.io/dashboard?id=org.sonarsource.pmd%3Asonar-pmd-plugin) [![SonarStatus](https://sonarcloud.io/api/project_badges/measure?project=org.sonarsource.pmd%3Asonar-pmd-plugin&metric=coverage)](https://sonarcloud.io/dashboard?id=org.sonarsource.pmd%3Asonar-pmd-plugin)
 Sonar-PMD is a plugin that provides coding rules from [PMD](https://pmd.github.io/).
