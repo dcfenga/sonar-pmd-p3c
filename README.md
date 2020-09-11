@@ -1,4 +1,4 @@
-基于Plugin：[sonar-pmd-plugin](https://github.com/jensgerdes/sonar-pmd/tree/master) ，添加对阿里p3c的支持。
+基于Plugin：[sonar-pmd-plugin](https://github.com/jensgerdes/sonar-pmd/tree/master) ，添加对阿里P3C的支持。
 
 SonarQube版本 7.7+，集成[p3c-pmd](https://github.com/alibaba/p3c/tree/master/p3c-pmd) 2.0.1版本。
 
